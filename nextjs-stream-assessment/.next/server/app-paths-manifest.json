@@ -1,0 +1,4 @@
+{
+  "/api/stream-summary/route": "app/api/stream-summary/route.js",
+  "/page": "app/page.js"
+}
